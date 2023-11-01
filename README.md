@@ -24,8 +24,8 @@ The PlayStation Store simulation is a basic Angular project aiming to showcase t
 **Angular Modules & Components:** Organized structure using modules and components for a clear separation of concerns.  
 **Component-based Architecture:** Encapsulation of functionalities within individual components such as app, card, menu-bar, etc.  
 **Data Binding:** Demonstrated through the use of @Input decorators to pass data between parent and child components.  
-Styling: CSS used to style the components, demonstrating the use of component-specific styles.  
-Routing: Although not explicitly shown in the provided code, Angular routing could be implemented for navigating between different pages or views within the application.  
+**Styling:** CSS used to style the components, demonstrating the use of component-specific styles.  
+**Routing:** Although not explicitly shown in the provided code, Angular routing could be implemented for navigating between different pages or views within the application.  
 
 ## **Conclusion**  
 This project provides an introduction to Angular's fundamental concepts. It showcases the creation of components, data binding, and the overall structure of an Angular application. Future enhancements could include routing, API integration for dynamic content, and more complex interactions to create a fully functional PlayStation Store experience.  
